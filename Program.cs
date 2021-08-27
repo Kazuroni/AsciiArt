@@ -20,6 +20,7 @@ namespace AsciiArt
             Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Você não esmagou a aranha parabens :D");
+            Console.ResetColor();
         }
     }
 }
